@@ -4,7 +4,7 @@
 
 ### Bilgisayar Mühendisliği Öğrencisi 👩🏻‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3500&pause=1000&color=E8A2D8&center=true&vCenter=true&width=700&lines=Makine+öğrenmesi+ve+veri+bilimi+alanlarında+çalışıyorum;Yapay+zekâ+ve+IoT+ile+ilgileniyorum+🤖📊🌐" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3500&pause=1000&color=E8A2D8&center=true&vCenter=true&width=700&lines=Makine+ogrenmesi+ve+veri+bilimi+alanlarinda+calisiyorum;Yapay+zeka+ve+IoT+ile+ilgileniyorum" />
 
 </div>
 
